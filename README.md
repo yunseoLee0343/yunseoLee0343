@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:5A585A,100:090947&height=200&section=header&text=yunseoLee0343&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:5A585A,100:090947&height=200&section=header&text=yunseoLee0343&fontAlign=55&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 
 ## :memo: **About me**
