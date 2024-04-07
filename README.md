@@ -12,16 +12,16 @@
    	   2. Single-Cycle/Multi-Cycle MIPS Microarchitecture
    	   3. Concurrency and Synchronization 
 	   4. Integer Overflow
+- :bookmark_tabs: Implemented [todolist](https://github.com/yunseoLee0343/todolist_v1.0.0.git) for studying flutter.
+- :books: If you're more interested in me, visit [my tech blog](https://velog.io/@yunmine/posts)!
 
-## :wrench: Tech stack 
+## :wrench: Tech
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
-## :books: Blog
-[Yunmine's Blog](https://velog.io/@yunmine/posts)
-
 ## :pencil2: Algorithms
-### 2024.03~
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunmine)](https://solved.ac/yunmine)
+### 2024.04~
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunmine">
+
 ### 2024.02~2024.03
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lys139011?theme=nord)
 
