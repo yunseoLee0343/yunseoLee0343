@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:5A585A,100:090947&height=200&section=header&text=yunseoLee0343&fontAlign=55&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
+## 👧 resume link
+- (kr) [https://muddy-coaster-885.notion.site/6563a54ae06040f9a9ea2847442243e6](https://muddy-coaster-885.notion.site/6563a54ae06040f9a9ea2847442243e6)
+
+
 
 ## :memo: **About me**
 - :raising_hand: Passionate Junior Mobile App Developer
