@@ -26,9 +26,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 
 ## :pencil2: Algorithms
-### 2024.04~ (solved.ac, rating)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunmine">
-
-### 2024.02~2024.03 (leetcode, nums of solved problems)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lys139011?theme=nord)
-
+### 2024.04~ 
+Baekjoon Sliver2 Random Defense
